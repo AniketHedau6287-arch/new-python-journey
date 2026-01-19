@@ -45,11 +45,11 @@
 # for val in range (10,0,-1):
 #     print(val,end=" ")
 
-
-# while val >=1:
-#     print(val,end=" ")
-#     val-=1
-#print value from 1 to n ?
+val=10
+while val >=1:
+    print(val,end=" ")
+    val-=1
+# print value from 1 to n ?
 
 # num=int(input("enter any number"))
 # for val in range(1,num+1,1):
@@ -88,11 +88,11 @@
 # for  val in range(1,11,1):
 #     if val%2!=0:
 #         print(val,end=" ")
-val = 1
-while val<=10:
-    if val%2!=0:
-        print(val,end=" ")
-    val+=1
+# val = 1
+# while val<=10:
+#     if val%2!=0:
+#         print(val,end=" ")
+#     val+=1
 
     
 
