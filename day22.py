@@ -76,7 +76,4 @@
 #     if data[i]==element:
 #         print(i)
 
-num = 123
-print(num)
-
 
