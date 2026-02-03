@@ -1,14 +1,14 @@
 #armstrong 
-# num = input("enter a number")
-# power = len(num)
-# ans = 0 
-# for i in num:
-#     ans+=int(i)**power
+num = input("enter a number")
+power = len(num)
+ans = 0 
+for i in num:
+    ans+=int(i)**power
 
-# if ans==int(num):
-#     print("armstrong")
-# else:
-#     print("not an armstrong")
+if ans==int(num):
+    print("armstrong")
+else:
+    print("not an armstrong")
 
 
 # count the digit in a number without using len()fumction ?
@@ -60,20 +60,20 @@
 #    if count%2==0:
 #         ans+=count
 # print(ans)
-print maximun digit in a number
-num="567"
-max=num[0]
-for i in num:
-    if max<i:
-        max=i
-print(max)
+# print maximun digit in a number
+# num="567"
+# max=num[0]
+# for i in num:
+#     if max<i:
+#         max=i
+# print(max)
 
-print minimun digit in a number
-num="567"
-num="567"
-max=num[0]
-for i in num:
-    if max<i:
-        max=i
-print(max)
+# print minimun digit in a number
+# num="567"
+# num="567"
+# max=num[0]
+# for i in num:
+#     if max<i:
+#         max=i
+# print(max)
 

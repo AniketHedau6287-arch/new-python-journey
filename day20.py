@@ -1,7 +1,7 @@
-# name = "Aniket"
+name = "Aniket"
 
-# for ch in name:
-#     print(ch,end="/")
+for ch in name:
+    print(ch,end="/")
 
 # i = 1
 # while i <= 15:
@@ -86,9 +86,9 @@
 # else:
 #     print("not pallendrom")
 
-num=input("enter")
-len(num)
+# num=input("enter")
+# len(num)
 
-for i in num:
-    int=i
+# for i in num:
+#     int=i
 
