@@ -1,9 +1,9 @@
-name = "Aniket"
+# name = "Aniket"
 
-for ch in name:
-    print(ch,end="/")
+# for ch in name:
+#     print(ch,end="/")
 
-# i = 1
+# # i = 1
 # while i <= 15:
 #     print(i,end=" ")
 #     i = i + 1
